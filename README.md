@@ -17,4 +17,14 @@ given above, feel free to contact permissions@oreilly.com.
 
 ---
 
+## Contents
+
+- Adafruit_MCP23017
+- DDS
+- dht11
+- DS1302RTC
+- Time
+
+## Use
+
 Put the contents of this repository into your "sketchbook/libraries" directory.
